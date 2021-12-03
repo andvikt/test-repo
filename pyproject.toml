@@ -7,6 +7,7 @@ authors = ["Викторов Андрей Германович <Viktorov.A.G@sbe
 [tool.poetry.dependencies]
 python = "^3.10"
 pandas = "^1.3.0"
+numpy = "^1.3.0"
 
 [tool.poetry.dev-dependencies]
 
